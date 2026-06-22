@@ -102,6 +102,13 @@ python Random_Forest.py
 
 ## Contributors
 
+| Name | Student ID |
+|------|------------|
+| 刘广 | 121052024065 |
+| 梁祺 | 121052024063 |
+| 王晨宇 | 121052024064 |
+| 周浩 | 109082023037 |
+
 Software Engineering Department, Team project for Artificial Intelligence course.
 
 ## License
