@@ -113,4 +113,4 @@ Software Engineering Department, Team project for Artificial Intelligence course
 
 ## License
 
-This project is for educational purposes only.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
