@@ -82,10 +82,23 @@ python Random_Forest.py
 
 | Model | AUC | Training Time |
 |-------|-----|---------------|
-| Random Forest | TBD | TBD |
-| XGBoost | TBD | TBD |
+| Random Forest | **0.8838** | 395.60s |
+| XGBoost | **0.8598** | 5.83s |
 
-*Results will be populated after running the code on your machine.*
+### Feature Importance (Top 10)
+
+| Rank | Feature | Importance |
+|------|---------|------------|
+| 1 | num_37 | 0.0645 |
+| 2 | cat_11 | 0.0485 |
+| 3 | num_3 | 0.0485 |
+| 4 | num_25 | 0.0467 |
+| 5 | num_18 | 0.0465 |
+| 6 | cat_10 | 0.0380 |
+| 7 | cat_0_2 | 0.0314 |
+| 8 | cat_0_5 | 0.0310 |
+| 9 | num_27 | 0.0290 |
+| 10 | cat_12 | 0.0282 |
 
 ## Contributors
 
